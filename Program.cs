@@ -68,7 +68,7 @@ namespace ProjetoProdutosConsole
 
             do
             {
-                if (i < 2)
+                if (i < 10)
                 {
                     Console.WriteLine($"{i + 1}º cadastro");
 
@@ -101,7 +101,7 @@ namespace ProjetoProdutosConsole
 
                     else
                     {
-                        switch (i > 2)
+                        switch (i > 10)
                         {
                             case true:
                                 Console.WriteLine("Número máximo de produtos atingido!");
