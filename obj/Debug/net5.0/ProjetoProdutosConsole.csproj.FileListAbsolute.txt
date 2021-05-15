@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ProjetoProdutosConsole.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ProjetoProdutosConsole.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ProjetoProdutosConsole.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ProjetoProdutosConsole.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ProjetoProdutosConsole.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ref\ProjetoProdutosConsole.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\bin\Debug\net5.0\ProjetoProdutosConsole.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ref\ProjetoProdutosConsole.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ProjetoProdutosConsole\obj\Debug\net5.0\ProjetoProdutosConsole.genruntimeconfig.cache
